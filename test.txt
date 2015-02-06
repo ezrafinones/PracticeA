@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello, I'm Ezra 
+=======
+Hello World! :)
+>>>>>>> origin/dev_1.0
